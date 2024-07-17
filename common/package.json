@@ -1,6 +1,6 @@
 {
-  "name": "@medium-fullstack/common",
-  "version": "1.0.0",
+  "name": "@debanjannn/common",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,5 @@
   "description": "",
   "dependencies": {
     "zod": "^3.23.8"
-  },
-  "devDependencies": {
-    "typescript": "^5.5.3"
   }
 }
